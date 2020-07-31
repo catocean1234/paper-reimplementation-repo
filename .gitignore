@@ -1,5 +1,5 @@
-data/*
-result/*
-log/*
-.idea/*
-__pycache__/*
+data/
+result/
+log/
+.idea/
+__pycache__/
